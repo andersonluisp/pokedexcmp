@@ -1,0 +1,42 @@
+package ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val Purple80 = Color(0xFFD0BCFF)
+val PurpleGrey80 = Color(0xFFCCC2DC)
+val Pink80 = Color(0xFFEFB8C8)
+
+val Purple40 = Color(0xFF6650a4)
+val PurpleGrey40 = Color(0xFF625b71)
+val Pink40 = Color(0xFF7D5260)
+
+val NORMAL_COLOR = Color(0xFFA0A29F)
+val FIGHTING_COLOR = Color(0xFFD14461)
+val FLYING_COLOR = Color(0xFFFFFFFF)
+val POISON_COLOR = Color(0xFFB667CD)
+val GROUND_COLOR = Color(0xFFD87C52)
+val ROCK_COLOR = Color(0xFFC9BB8D)
+val BUG_COLOR = Color(0xFF93BB3A)
+val GHOST_COLOR = Color(0xFF606FBA)
+val STEEL_COLOR = Color(0xFFFFFFFF)
+val FIRE_COLOR = Color(0xFFFF6B00)
+val WATER_COLOR = Color(0xFF8EC3CF)
+val GRASS_COLOR = Color(0xFF008B00)
+val ELECTRIC_COLOR = Color(0xFFF4DC26)
+val PSYCHIC_COLOR = Color(0xFFF88684)
+val ICE_COLOR = Color(0xFF79D0C1)
+val DRAGON_COLOR = Color(0xFF176CC5)
+val DARK_COLOR = Color(0xFFFFFFFF)
+val FAIRY_COLOR = Color(0xFFED93E4)
+val UNKNOWN_COLOR = Color(0xFFFFFFFF)
+val SHADOW_COLOR = Color(0xFFFFFFFF)
+val TOPBAR_COLOR = Color(0xFF7D7D7D)
+
+val HP_BAR_COLOR = Color(0xFF1D941D)
+val ATTACK_BAR_COLOR = Color(0xFFFF0000)
+val DEFENSE_BAR_COLOR = Color(0xFFD77E55)
+val SPEED_BAR_COLOR = Color(0xFF1C6EC5)
+val STROKE_BAR_COLOR = Color(0xFF444444)
+val TRACK_BAR_COLOR = Color(0xFFD4D4D4)
+
+val TAB_ROW_COLOR = Color(0xFF444444)
